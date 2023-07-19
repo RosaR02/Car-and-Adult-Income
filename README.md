@@ -5,7 +5,7 @@
 ## Rosa Rocha
 
 <p align = "center"> 
-  <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/income.png">
+  <img src = "https://github.com/RosaR02/Car-and-Adult-Income/blob/main/images/income.png">
 </p>
 
 
@@ -22,19 +22,19 @@
     
 
 <p align = "center"> 
-  <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/race-histplot.png">
+  <img src = "https://github.com/RosaR02/Car-and-Adult-Income/blob/main/images/race-histplot.png">
 </p>
 
 The majority of employees are white compared to any other race.
 
 <p align = "center">
-   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/race-income.png">  
+   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/blob/main/images/race-income.png">  
 </p>
 This visualization shows the white race as the majority making 50k or less equally the same race makes 50k or more compared to other races. Virutally zero Others and Amer-Indian-Eskimo make 50k or more.
 
 
 <p align = "center">
-   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/income-education.png"> 
+   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/blob/main/images/income-education.png"> 
 
  Here you can see a clear correlation between income and eduation. Very few people with a high school education (not grad) can still make over 50k.
 
@@ -49,7 +49,7 @@ This visualization shows the white race as the majority making 50k or less equal
 ## Models Evaluated & Results
 
 <p align = "center">
-   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/bestmodels.png"> 
+   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/blob/main/images/bestmodels.png"> 
 
 
 
