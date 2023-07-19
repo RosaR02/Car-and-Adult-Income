@@ -1,12 +1,14 @@
 # Adult Income
 
- This data describes the features related to adult incomes.
+ This data describes the features related to adult incomes. We compare the difference between someone who pursued higher education vs someone who didn't and what that outcome was.
 
 ## Rosa Rocha
 
 <p align = "center"> 
   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/blob/main/images/income.png">
 </p>
+
+Who is your stakeholder, and what problem are you solving for them? The Department of Education to show areas of focus for improvement of outcomes.
 
 
 ## DATA CLEANING - To prepare this data, the data was cleaned, and the following processes were performed:
