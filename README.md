@@ -4,10 +4,8 @@
 
 ## Rosa Rocha
 
-## insert image
-
 <p align = "center"> 
-  <img src = "https://github.com/RosaR02/Sales-Predictions/blob/main/screenshots/data%20dictionary.png">
+  <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/income.png">
 </p>
 
 
@@ -24,40 +22,21 @@
     
 
 <p align = "center"> 
-  <img src = "https://github.com/RosaR02/Sales-Predictions/blob/main/screenshots/countplot.png">
+  <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/race-histplot.png">
 </p>
 
-This histogram below shows the Medium Outlet Size has more sales than the other 2 Outlet Sizes.
+The majority of employees are white compared to any other race.
 
 <p align = "center">
-   <img src = "https://github.com/RosaR02/Sales-Predictions/blob/main/screenshots/Histplot.png">  
+   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/race-income.png">  
 </p>
+This visualization shows the white race as the majority making 50k or less equally the same race makes 50k or more compared to other races. Virutally zero Others and Amer-Indian-Eskimo make 50k or more.
 
- ### Explanatory Data Analysis
-    - To visualize the data for explantory purposes, two bargraphs were chosen and one linegraph was chosen.
-    - The bargraphs were chosen to show how the categories compare to each other. 
-    - Finally, a linegraph was chosen to show the outlet type. 
-
-
-## Explanatory Visuals
 
 <p align = "center">
-    <img src = "https://github.com/RosaR02/Sales-Predictions/blob/main/screenshots/barplot.png">
- </p>
- 
- This barplot shows the top 5 highest selling items though slighly close by average:
-  - Starchy Foods            2374.332773
-  - Seafood                  2326.065928
-  - Fruits and Vegetables    2289.009592
-  - Snack Foods              2277.321739
-  - Household                2258.784300
- 
- <p align = "center">
-    <img src = "https://github.com/RosaR02/Sales-Predictions/blob/main/screenshots/lineplot.png">
- </p>
+   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/income-education.png"> 
 
-
-This lineplot shows that Supermarket type 3 has the most sales compared to the Grocery store which has the lowest of all.
+ Here you can see a clear correlation between income and eduation. Very few people with a high school education (not grad) can still make over 50k.
 
 
  ### Maching Learning Using the Following Models:
@@ -69,40 +48,8 @@ This lineplot shows that Supermarket type 3 has the most sales compared to the G
     
 ## Models Evaluated & Results
 
-- Logistic Regression PCA Tuned :
-
-              precision    recall  f1-score   support
-
-           0       0.93      0.78      0.85      8794
-           1       0.56      0.82      0.67      2950
-
-    accuracy                           0.79     11744
-   macro avg       0.75      0.80      0.76     11744
-weighted avg       0.84      0.79      0.80     11744Linear Regression Model (Testing Set):
-
-
-- Random Forest PCA Tuned :
-
-              precision    recall  f1-score   support
-
-           0       0.93      0.78      0.85      8794
-           1       0.56      0.81      0.66      2950
-
-    accuracy                           0.79     11744
-   macro avg       0.74      0.80      0.75     11744
-weighted avg       0.83      0.79      0.80     11744Decision Tree Regressor Model (Testing Set):
-
-- KN Tuned :
-
-              precision    recall  f1-score   support
-
-           0       0.91      0.73      0.81      8794
-           1       0.49      0.79      0.61      2950
-
-    accuracy                           0.74     11744
-   macro avg       0.70      0.76      0.71     11744
-weighted avg       0.81      0.74      0.76     11744
-
+<p align = "center">
+   <img src = "https://github.com/RosaR02/Car-and-Adult-Income/images/bestmodels.png"> 
 
 
 
